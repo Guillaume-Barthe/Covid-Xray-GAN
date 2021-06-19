@@ -5,4 +5,8 @@ This code was written by [BARTHE Guillaume](https://github.com/Guillaume-Barthe/
 
 ## Horse2zebra implementation
 
-If you want to take a look at the cycleGan model applied 
+If you want to take a look at the cycleGan model applied to Horses and Zebras, the parameters I used to produce the results of the paper and the output images are on this [Colab Notebook](https://colab.research.google.com/github/Guillaume-Barthe/Covid-Xray-GAN/blob/main/CycleGAN_horses.ipynb).
+
+## Covid-19 Xrays implementation
+
+The adaptation to the Covid-19 dataset was also implemented on Google Colab and can be found on this [notebook](https://colab.research.google.com/github/Guillaume-Barthe/Covid-Xray-GAN/blob/main/CycleGAN_horses.ipynb).
