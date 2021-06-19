@@ -9,4 +9,4 @@ If you want to take a look at the cycleGan model applied to Horses and Zebras, t
 
 ## Covid-19 Xrays implementation
 
-The adaptation to the Covid-19 dataset was also implemented on Google Colab and can be found on this [notebook](https://colab.research.google.com/github/Guillaume-Barthe/Covid-Xray-GAN/blob/main/CycleGAN_horses.ipynb).
+The adaptation to the Covid-19 dataset was also implemented on Google Colab and can be found on this [notebook](https://colab.research.google.com/github/Guillaume-Barthe/Covid-Xray-GAN/blob/main/cyclegan_covid.ipynb).
